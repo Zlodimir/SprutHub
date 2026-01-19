@@ -1,1 +1,1 @@
-# SprutHub
+# SprutHub templates
