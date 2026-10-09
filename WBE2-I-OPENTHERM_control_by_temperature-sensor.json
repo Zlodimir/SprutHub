@@ -28,7 +28,7 @@
           "link": [
             {
               "type": "Integer",
-              "topicGet": "/devices/(1)/controls/Boiler CH mode",
+              "topicGet": "/devices/(1)/controls/Boiler CH Mode",
               "inFunc": "value>0?1:0",
               "write": false
             }
@@ -250,7 +250,7 @@
       "link": [
         {
           "type": "Boolean",
-          "topicGet": "/devices/(1)/controls/Boiler CH mode"
+          "topicGet": "/devices/(1)/controls/Boiler CH Mode"
         }
       ]
     },
